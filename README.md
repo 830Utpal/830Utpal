@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Education App<br>👯 I’m looking to collaborate on Chat App<br>🤝 I’m looking for help with Web Sockets<br>🌱 I’m currently learning Web sockets ,Three.js, Next.js<br>💬 Ask me about MERN Stack<br>⚡ I am a Full Stack Developer
+🔭 I’m currently working on an Education App<br>👯 I’m looking to collaborate on Chat App<br>🤝 I’m looking for help with Web Sockets<br>🌱 I’m currently learning Web sockets ,Three.js, Next.js<br>💬 Ask me about MERN Stack<br>⚡ I am a Full Stack Developer
 
 
 ## 🌐 Socials:
