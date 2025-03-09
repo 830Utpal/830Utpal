@@ -1,5 +1,5 @@
 # 💫 Hi there, I'm Utpal Yadav:
-⚡ I am a Full Stack Developer<br>🔭 I’m currently working on an Education App<br>👯 I’m looking to collaborate on Web_dev<br>🤝 I’m looking for help with Web Sockets<br>🌱 I’m currently learning Web sockets ,Three.js, Next.js<br>💬 Ask me about MERN Stack<br>
+⚡ I am a Full Stack Developer<br>🔭 I’m currently working on an AI SaaS App<br>👯 I’m looking to collaborate on Web_dev<br>🤝 I’m looking for help with Web Sockets<br>🌱 I’m currently learning Web sockets ,Three.js, Next.js<br>💬 Ask me about MERN Stack<br>
 
 
 ## 🌐 Socials:
