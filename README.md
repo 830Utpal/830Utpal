@@ -1,4 +1,4 @@
-#  Hi there, I'm Utpal Yadav:
+#  Hi there, I'm Utpal Yadav
  ⚡ I am a Full Stack Developer and Web Designer.<br>🔭 I’m currently working on an e-commerce app<br>👯 I’m looking to collaborate on Web_dev<br>🤝 I’m looking for help with Web Sockets, AI integration, ReactJs<br>🌱 I’m currently learning Web sockets ,Three.js, Next.js<br>💬 Ask me about MERN Stack and DSA<br>
 
 
